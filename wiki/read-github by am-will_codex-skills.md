@@ -1,13 +1,13 @@
 ---
 title: read-github by am-will/codex-skills
 date: 2026-05-17
-category: Agent Skills
+category: Agent Skills e Automação
 sources: [raw/read-github by am-will_codex-skills.md]
 ---
 
 # read-github by am-will/codex-skills
 
-**Categoria:** Agent Skills
+**Categoria:** Agent Skills e Automação
 
 ## Resumo Automático
 b0159efc-1758-4b76-96aa-5e8fb9aa31bd

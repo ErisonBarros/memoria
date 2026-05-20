@@ -1,13 +1,13 @@
 ---
 title: How the Reskilling Revolution will prepare future workers | World Economic Forum
 date: 2026-05-17
-category: Agent Skills
+category: Carreiras e Mercado de Trabalho
 sources: [raw/How the Reskilling Revolution will prepare future workers _ World Economic Forum.md]
 ---
 
 # How the Reskilling Revolution will prepare future workers | World Economic Forum
 
-**Categoria:** Agent Skills
+**Categoria:** Carreiras e Mercado de Trabalho
 
 ## Resumo Automático
 035b8896-5bb9-46c9-93e4-06172962a55e

@@ -1,13 +1,13 @@
 ---
 title: Top Green Credentials for 2026 | Renew & Sustain
 date: 2026-05-17
-category: Geral
+category: Sustentabilidade e ESG
 sources: [raw/Top Green Credentials for 2026 _ Renew & Sustain.md]
 ---
 
 # Top Green Credentials for 2026 | Renew & Sustain
 
-**Categoria:** Geral
+**Categoria:** Sustentabilidade e ESG
 
 ## Resumo Automático
 fd3ca456-66a5-4de9-b571-489f1fcf81e8

@@ -1,13 +1,13 @@
 ---
 title: 2026 How to Become a Bioinformatics Scientist: Education, Salary, and Job Outlook
 date: 2026-05-17
-category: Computação Quântica
+category: Bioinformática e Biotech
 sources: [raw/2026 How to Become a Bioinformatics Scientist_ Education, Salary, and Job Outlook.md]
 ---
 
 # 2026 How to Become a Bioinformatics Scientist: Education, Salary, and Job Outlook
 
-**Categoria:** Computação Quântica
+**Categoria:** Bioinformática e Biotech
 
 ## Resumo Automático
 1b642e17-ee65-4974-a29c-e4c925824b09

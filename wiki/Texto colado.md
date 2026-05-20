@@ -1,13 +1,13 @@
 ---
 title: Texto colado
 date: 2026-05-17
-category: Agent Skills
+category: Geral
 sources: [raw/Texto colado.md]
 ---
 
 # Texto colado
 
-**Categoria:** Agent Skills
+**Categoria:** Geral
 
 ## Resumo Automático
 8ff30989-f72f-4ed3-a89f-64505c661710

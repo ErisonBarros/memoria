@@ -67,3 +67,5 @@ Append-only record of wiki operations (ingests, queries, lint passes).
 ## [2026-05-17] ingest | What's New in Biotech in 2026_ Breakthroughs and Research Trends - ZAGENO.md
 ## [2026-05-17] ingest | Workplace trends for 2026_ Preparing for the new labor market reality - IMD Business School.md
 ## [2026-05-17] ingest | World Economic Forum Reskilling Revolution on Track to Reach over 850 Million People.md
+
+## [2026-05-17] lint | Organização do índice por categorias temáticas e normalização de metadados

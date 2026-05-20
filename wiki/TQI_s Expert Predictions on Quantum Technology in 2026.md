@@ -1,13 +1,13 @@
 ---
 title: TQI's Expert Predictions on Quantum Technology in 2026
 date: 2026-05-17
-category: Computação Quântica
+category: Computação Quântica e Criptografia
 sources: [raw/TQI's Expert Predictions on Quantum Technology in 2026.md]
 ---
 
 # TQI's Expert Predictions on Quantum Technology in 2026
 
-**Categoria:** Computação Quântica
+**Categoria:** Computação Quântica e Criptografia
 
 ## Resumo Automático
 d36642f7-4736-4799-b058-66b8f9530cfc

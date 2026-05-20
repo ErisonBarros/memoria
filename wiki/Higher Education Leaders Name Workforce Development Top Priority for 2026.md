@@ -1,13 +1,13 @@
 ---
 title: Higher Education Leaders Name Workforce Development Top Priority for 2026
 date: 2026-05-17
-category: Visão Computacional
+category: Carreiras e Mercado de Trabalho
 sources: [raw/Higher Education Leaders Name Workforce Development Top Priority for 2026.md]
 ---
 
 # Higher Education Leaders Name Workforce Development Top Priority for 2026
 
-**Categoria:** Visão Computacional
+**Categoria:** Carreiras e Mercado de Trabalho
 
 ## Resumo Automático
 d0c8a89c-f8d1-46fd-b198-7495923c14a5

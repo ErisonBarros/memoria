@@ -1,13 +1,13 @@
 ---
 title: Quantum Computing Hiring Trends 2026: What to Watch Out For ...
 date: 2026-05-17
-category: Visão Computacional
+category: Computação Quântica e Criptografia
 sources: [raw/Quantum Computing Hiring Trends 2026_ What to Watch Out For ....md]
 ---
 
 # Quantum Computing Hiring Trends 2026: What to Watch Out For ...
 
-**Categoria:** Visão Computacional
+**Categoria:** Computação Quântica e Criptografia
 
 ## Resumo Automático
 03fc2654-6582-46b5-b0ab-cb7a49d10676
